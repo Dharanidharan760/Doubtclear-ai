@@ -6,6 +6,5 @@ wordcloud
 groq
 deep-translator
 SpeechRecognition
-pyaudio
 plotly
 streamlit-option-menu
