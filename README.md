@@ -25,29 +25,6 @@ DoubtClear AI is a smart AI-powered NLP application developed using Python and S
 
 ---
 
-## 🤖 DoubtClear AI Assistant
-- AI-powered chatbot using Groq API
-- Answers questions related to:
-  - AI
-  - NLP
-  - Python
-  - Machine Learning
-  - Technology
-  - General Knowledge
-
----
-
-## 📄 AI Resume Analyzer
-- ATS Resume Score Detection
-- Technical Skill Detection
-- Missing Skill Suggestions
-- Resume Strength Analysis
-- AI Career Suggestions
-- Resume Improvement Tips
-- Download Resume Report
-
----
-
 ## 📧 AI Email Formatter
 - Converts informal text into professional email format
 - Generates structured business emails
@@ -58,12 +35,6 @@ DoubtClear AI is a smart AI-powered NLP application developed using Python and S
 - Supports multiple world languages
 - Real-time translation system
 - Includes Tamil, Hindi, Malayalam, Telugu, English, and more
-
----
-
-## 🎙️ Speech To Text
-- Converts voice input into text
-- Uses microphone speech recognition
 
 ---
 
@@ -91,7 +62,6 @@ DoubtClear AI is a smart AI-powered NLP application developed using Python and S
 - Matplotlib
 - WordCloud
 - Deep Translator
-- SpeechRecognition
 - Plotly
 
 ---
@@ -106,7 +76,5 @@ matplotlib
 wordcloud
 groq
 deep-translator
-SpeechRecognition
-pyaudio
 plotly
 streamlit-option-menu
