@@ -160,11 +160,8 @@ if page == "🏠 Home Dashboard":
     <ul>
     <li>🧹 Text Cleaning</li>
     <li>⭐ Sentiment Analysis</li>
-    <li>🤖 AI Assistant</li>
-    <li>📄 Resume Analyzer</li>
     <li>📧 AI Email Formatter</li>
     <li>🌍 Language Translator</li>
-    <li>🎙️ Speech To Text</li>
     <li>😊 Emotion Detection</li>
     <li>📝 AI Notes Summarizer</li>
     </ul>
