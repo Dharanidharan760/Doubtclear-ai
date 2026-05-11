@@ -5,6 +5,5 @@ matplotlib
 wordcloud
 groq
 deep-translator
-SpeechRecognition
 plotly
 streamlit-option-menu
